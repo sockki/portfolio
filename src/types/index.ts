@@ -42,23 +42,23 @@ export interface DataProps {
   };
   information: InformationProps;
   project: ProjectProps[];
-  activity?: {
+  activity: {
     id: number;
     name: string;
     description: string;
     period: string[];
   }[];
-  education?: {
+  education: {
     id: number;
     name: string;
     description: string;
     period: string[];
   }[];
-  certificate?: {
+  certificate: {
     id: number;
     name: string;
     date: string;
     organizer: string;
   }[];
-  award?: AwardProps[];
+  award: AwardProps[];
 }
