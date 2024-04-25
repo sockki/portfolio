@@ -1,7 +1,3 @@
-- Hoo-ooh-ooh-ooh
-- Hoo-ooh-ooh-ooh
-- Stay in the middle
-- Like you a little
-- Don't want no riddle
-- 말해줘 say it back, oh, say it ditto
-- 아침은 너무 멀어 so say it ditto
+- **나의 능력을 다른 사람에게 선보이는 것** 을 즐깁니다. 이러한 성향을 바탕으로 사용자 및 소비자와 가장 가깝게 소통할 수 있는 프론트엔드 개발자를 선택했습니다.
+- **다른 사람과의 협업**에 강점이 있으며 팀원과의 의사소통을 통해 결과를 만들어내는 것이 장점이 있습니다
+- 맡은 일은 정해진 시간안에 모두 해내는 **책임감**을 가지고 있습니다
