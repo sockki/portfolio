@@ -40,6 +40,7 @@ export interface DataProps {
   resumeTitle: {
     title: string;
   };
+  workExperience:WorkExperienceProps[]
   information: InformationProps;
   project: ProjectProps[];
   activity: {

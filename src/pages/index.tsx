@@ -3,7 +3,6 @@ import path from "path";
 
 import { NextPage } from "next";
 
-import Activity from "@/components/Activity";
 import Certificate from "@/components/Certificate";
 import Education from "@/components/Education";
 import Footer from "@/components/Footer";
@@ -13,7 +12,7 @@ import Project from "@/components/Project";
 import ResumeTitle from "@/components/ResumeTitle";
 // import ScrollProgress from "@/components/ScrollProgress";
 import { DataProps, InformationProps, ProjectProps, WorkExperienceProps } from "@/types";
-import Award from "@/components/Award";
+
 
 const Home: NextPage<DataProps> = ({
   resumeTitle,
