@@ -15,6 +15,7 @@ const ProjectItem = ({
   stack,
   markdown,
   imgSrc,
+  role,
 }: ProjectProps) => {
   return (
     <div className="flex flex-col gap-2 md:gap-0">
@@ -52,6 +53,9 @@ const ProjectItem = ({
                 {stack}
               </span>
             ))}
+          </div>
+          <div className="mt-2">
+            <code>{role}</code>
           </div>
         </div>
         <ReactMarkdown remarkPlugins={[remarkGfm]}>{markdown ?? ""}</ReactMarkdown>

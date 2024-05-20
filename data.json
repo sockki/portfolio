@@ -20,7 +20,8 @@
       "repoUrl": "https://github.com/next-petree/frontend",
       "isTeam": true,
       "period": ["2023. 10", "2024. 02"],
-      "stack": ["TypeScript", "React", "Styled-Components", "Redux-toolkit"]
+      "stack": ["TypeScript", "React", "Styled-Components", "Redux-toolkit"],
+      "role": "기여도 50% / 5명 (디자이너 1, BE 1, FE 3)"
     },
     {
       "id": 1,
@@ -30,7 +31,8 @@
       "repoUrl": "https://github.com/choiseona/commence-project-frontend",
       "isTeam": true,
       "period": ["2023.12","2024.02"],
-      "stack": ["TypeScript", "React", "Tailwind CSS"]
+      "stack": ["TypeScript", "React", "Tailwind CSS"],
+      "role": "기여도 70% / 3명 (디자이너 1, FE 2)"
     },
     {
       "id": 2,
@@ -40,7 +42,8 @@
       "repoUrl": "https://github.com/PlanIt-Project/front-end",
       "isTeam": true,
       "period": ["2024.03","2024.04"],
-      "stack": ["TypeScript", "React", "Styled-Components", "Zustand", "React-query"]
+      "stack": ["TypeScript", "React", "Styled-Components", "Zustand", "React-query"],
+      "role": "기여도 50% / 5명 (BE 3, FE 2)"
     }
   ],
 
