@@ -44,6 +44,17 @@
       "period": ["2024.03","2024.04"],
       "stack": ["TypeScript", "React", "Styled-Components", "Zustand", "React-query"],
       "role": "기여도 50% / 5명 (BE 3, FE 2)"
+    },
+    {
+      "id": 3,
+      "name": "FlawDetector | 코드 취약점 검사 시스템",
+      "description": "웅진씽크빅 [Next.js 프로젝트 캠프 2기]에서 진행한 기업 연계 프로젝트 입니다.\nIT 서비스의 발전에 따라 발생하는 보안 사고 문제에 대응하기 위해 고안 된 프로젝트 입니다.\nAI를 사용해 소프트웨어 코드의 보안 취약점을 분석하여 해결책을 제시 할 수 있으며, 해외 취약점 관련 기사를 번역하여 제공해 사용자에게 보안 트렌드에 관련된 정보를 제공 할 수 있습니다.\n(현재 배포 사이트는 기업의 요청으로 인해 막힌 상태 입니다.)",
+      "webUrl": "https://flawdetector.co.kr/",
+      "repoUrl": "https://github.com/security-vigilante/geekhub",
+      "isTeam": true,
+      "period": ["2024.08","2024.09"],
+      "stack": ["TypeScript", "Next.JS", "Tailwind CSS", "TanStack-query", "Firebase", "Llama3 AI"],
+      "role": "기여도 30% / 5명 (FE 5)"
     }
   ],
 
@@ -84,10 +95,10 @@
   "award": [
     {
       "id": 0,
-      "name": "첫번째 수상",
-      "date": "2019. 07. 28",
-      "organizer": "수여기관",
-      "description": "첫번째 수상에 대한 간략한 설명"
+      "name": "웅진씽크빅 [Next.js 프로젝트 캠프 2기] 우수상",
+      "date": "2024. 04. 20",
+      "organizer": "주식회사 웅진씽크빅",
+      "description": "웅진씽크빅과 유데미에서 개최하는 [Next.js 프로젝트 캠프 2기]의 프로젝트 결과 평가에서 15개의 팀중 상위 4팀에 뽑혀서 수상하게 된 상입니다."
     }
   ]
 }
